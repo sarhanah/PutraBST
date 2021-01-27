@@ -51,8 +51,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/sadbotv2
-> cd sadbotv2
+> git clone https://github.com/Ramlan666/MYEbotv2
+> cd MYEbotv2
 > bash install.sh
 > npm start
 > Tinggal scan kode qr yeee...done
